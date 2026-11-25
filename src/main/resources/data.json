@@ -1,0 +1,19 @@
+{
+  "title": "Levi's Men's 511 Slim Fit Mid Rise Jeans",
+  "price": 2899.00,
+  "description": "Levi's 511 men's slim fit jeans in solid black. Model number 18298-1253, waist size 32. Designed with a slim fit through the hip and thigh, suitable for casual wear.",
+  "category": "Men's Clothing",
+  "images": [
+   "https://m.media-amazon.com/images/I/51nW98RxOLL._SX679_.jpg",
+   "https://m.media-amazon.com/images/I/5144gSbtOnL._SX679_.jpg",
+   "https://m.media-amazon.com/images/I/51HbVL9JgiL._SX679_.jpg",
+   "https://m.media-amazon.com/images/I/61gZR9iq3TL._SX679_.jpg"
+  ],
+  "rating": {
+    "rate": 4.0,
+    "count": 100
+  },
+  "quantity": 10,
+  "mfg": "2026-01-01T12:05:06",
+  "exp": "2028-01-01"
+}
